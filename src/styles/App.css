@@ -1,0 +1,33 @@
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+h1 {
+  font-size: 25px !important;
+  text-align: center;
+}
+
+h2 {
+  font-size: 23px !important;
+  text-align: center;
+}
+
+h3 {
+  font-size: 19px !important;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+
+.Button1 {
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 2px 8px !important;
+  background-color: #eeeeee !important;
+}

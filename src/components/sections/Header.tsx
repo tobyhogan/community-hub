@@ -9,10 +9,11 @@ function Header() {
       <Link to="/home" className='text-2xl py-2.5 ml-[3vw]'>Community Hub</Link>
       <ul className='flex flex-row mr-[3vw] [&>*]:mr-[2vw] [&>*]:my-auto'>
         <Link to="/home">Home</Link>
-        <Link to="/statistics">Results</Link>
+        <Link to="/feedback">Give Feedback</Link>
         <Link to="/suggestions">Suggestions</Link>
+        <Link to="/statistics">Results</Link>
         <Link to="/home" className='Button2'>Log In / Sign Up</Link>
-        <Link to="/suggestions">Your Account</Link>
+        <Link to="/account">Your Account</Link>
       </ul>
     </header>
   )

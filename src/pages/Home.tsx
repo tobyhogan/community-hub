@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 function Home() {
 
   return (
-    <main className='px-[20vw]'>
+    <main className='pt-12 pb-10 px-[20vw]'>
       <h2 className='mt-9'>What is the community hub?</h2>
       <p className='mt-3'>
         The community hub provides a place where feedback and data about frome can be collected and processed by the council and 

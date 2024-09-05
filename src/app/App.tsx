@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 import '../styles/App.css'
 
-import Header from '../components/Header.tsx'
+import Header from '../components/sections/Header.tsx'
 
 import Home from '../pages/Home.tsx'
 import About from '../pages/About.tsx'

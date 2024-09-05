@@ -36,3 +36,11 @@ p {
   padding: 2px 8px !important;
   background-color: #eeeeee !important;
 }
+
+.Button2 {
+  color: black;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 2px 8px !important;
+  background-color: #eeeeee !important;
+}
